@@ -1,3 +1,5 @@
+# pipeline-base is no longer actively maintained by VMware, Inc.
+
 # Pipeline-base
 
 [![](https://images.microbadger.com/badges/image/springcloud/pipeline-base-git.svg)](https://microbadger.com/images/springcloud/pipeline-base "Get your own image badge on microbadger.com")
